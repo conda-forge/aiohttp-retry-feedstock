@@ -115,5 +115,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@efiop](https://github.com/efiop/)
 * [@isidentical](https://github.com/isidentical/)
 
