@@ -1,5 +1,5 @@
 {% set name = "aiohttp-retry" %}
-{% set version = "2.9.0" %}
+{% set version = "2.9.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/aiohttp_retry-{{ version }}.tar.gz
-  sha256: 92c47f1580040208bac95d9a8389a87227ef22758530f2e3f4683395e42c41b5
+  sha256: 8eb75e904ed4ee5c2ec242fefe85bf04240f685391c4879d8f541d6028ff01f1
 
 build:
   number: 0
