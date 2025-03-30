@@ -19,6 +19,7 @@ requirements:
   host:
     - pip
     - python >=3.6
+    - setuptools ==59.6.0
   run:
     - aiohttp
     - python >=3.6
@@ -41,3 +42,4 @@ extra:
   recipe-maintainers:
     - isidentical
     - efiop
+    - hlf20010508
