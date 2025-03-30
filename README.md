@@ -144,5 +144,6 @@ Feedstock Maintainers
 =====================
 
 * [@efiop](https://github.com/efiop/)
+* [@hlf20010508](https://github.com/hlf20010508/)
 * [@isidentical](https://github.com/isidentical/)
 
